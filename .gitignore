@@ -1,0 +1,13 @@
+# Environment Python
+.venv/
+__pycache__/
+
+# Dataset dan hasil training (ukurannya besar)
+data/css-data/
+runs/
+*.pt
+!models/best.pt
+
+# File sistem
+.DS_Store
+.claude/
