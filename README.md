@@ -2,6 +2,8 @@
 
 Web untuk mendeteksi pemakaian APD di area konstruksi, dibuat dengan YOLO11 dan Streamlit. Bahan workshop "Computer Vision for Construction Safety".
 
+Panduan lengkap langkah demi langkah ada di `guidebook/Guidebook_CV_Construction_Safety.pdf`.
+
 Model mengenali 10 kelas: Hardhat, NO-Hardhat, Safety Vest, NO-Safety Vest, Mask, NO-Mask, Person, Safety Cone, machinery, dan vehicle. Kelas berawalan NO- ditandai kotak merah.
 
 ## Dataset
