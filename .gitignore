@@ -13,3 +13,4 @@ runs/
 .claude/
 data/roboflow-upload/
 guidebook/build/
+data/latihan-labeling/
