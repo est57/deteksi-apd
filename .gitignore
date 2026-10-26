@@ -11,3 +11,5 @@ runs/
 # File sistem
 .DS_Store
 .claude/
+data/roboflow-upload/
+guidebook/build/
